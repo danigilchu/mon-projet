@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://www.petdrugsonline.co.uk/images/page-headers/cats-master-header">
     <router-view></router-view>
   </div>
 </template>

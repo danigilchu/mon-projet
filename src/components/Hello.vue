@@ -1,9 +1,10 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class='wena'>
+    <h1>{{ mensaje }}</h1>
     <h2>Essential Links</h2>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
+      <li><a href="./log.vue" target="_blank">Log in</a></li>
+      <!-- <img src="../assets/logo.png"> -->
       <li><a href="https://forum.vuejs.org" target="_blank">Forum</a></li>
       <li><a href="https://gitter.im/vuejs/vue" target="_blank">Gitter Chat</a></li>
       <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
@@ -21,13 +22,15 @@
 </template>
 
 <script>
-export default {
-  name: 'hello',
+
+export default{
+  name: 'wena',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      mensaje: 'Hello World!'
     }
   }
+
 }
 </script>
 
@@ -48,6 +51,6 @@ li {
 }
 
 a {
-  color: #42b983;
+  color: #ff9900;
 }
 </style>
