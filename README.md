@@ -1,4 +1,4 @@
-# (Nom du projet/site ici)
+# Projet Upper
 ## Idée/principe du projet:
 *créer un site de vente, d'échange de jeux vidéos entre utilisateurs, avec possibilité de publier des annonces ou de modifier son profil pour y créer des collections de jeux diverses. (utilitaires: Bootstrap, CouchDB, Vue.js)*
 ### Objectifs:
